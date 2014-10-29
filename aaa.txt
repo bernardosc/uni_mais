@@ -1,4 +1,3 @@
 nada
-repositorio
-testando o git
+repositorio do git. Fazendo testes.
 unibh, uni mais
